@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+pyserial
+matplotlib
+tensorflow>=2.10  # for TFLite conversion
+tflite-runtime>=2.10  # for running TFLite models
+jupyterlab
+
