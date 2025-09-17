@@ -27,7 +27,8 @@ dysgraphia-detector/
 
 ### Hardware Connections
 #### MPU6050 (I²C)
-![XIAO RP2040 Board](img\mpu_interfacing.jpg)
+<img src="img\mpu_interfacing.jpg" alt="XIAO RP2040 Board" width="400">
+
 ~~~ 
 VCC → 3.3V
 GND → GND
@@ -36,7 +37,8 @@ SDA → D4 (SDA pin of Seeed board)
 ~~~
 
 #### Pressure Sensors (Analog)
-![Pressure Sensor Interfacing](img\image.png)
+<img src="img\image.png" alt="XIAO RP2040 Board" width="400">
+
 ~~~
 Suppose you’re using force-sensitive resistors (FSR) or piezo pressure sensors.
 Sensor 1 output → A0 (Analog pin)
